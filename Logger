@@ -1,0 +1,2 @@
+import from slf4j both logger and loggerFactory
+private static final Logger logger = LoggerFactory.getLogger(KafkaTopicProducer.class);
